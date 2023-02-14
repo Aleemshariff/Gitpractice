@@ -3,3 +3,4 @@ this line is added in master branch
 this line is development branch
 
 adding in master branch 2
+adding this line in development branch 2
