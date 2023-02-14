@@ -1,6 +1,5 @@
 this file is added in development branch
-<<<<<<< HEAD
 this line is added in master branch
-=======
 this line is development branch
->>>>>>> development
+
+adding in master branch 2
